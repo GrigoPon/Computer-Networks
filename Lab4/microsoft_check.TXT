@@ -1,0 +1,36 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                       rt.IGD_Rostelecom -    0 |   42 |   42 |    0 |    0 |    3 |    0 |
+|          klng-bras4.sz.ip.rostelecom.ru -    0 |   42 |   42 |    2 |    9 |   48 |    3 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|     ae16.frkt-cr2.intl.ip.rostelecom.ru -   12 |   25 |   22 |   28 |   29 |   33 |   28 |
+|          msft-decix-01-fra.ntwk.msn.net -    0 |   42 |   42 |   37 |   41 |   66 |   37 |
+|         ae31-0.icr01.fra21.ntwk.msn.net -    0 |   42 |   42 |   37 |   40 |  104 |   38 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|         be1012.rwa02.fra25.ntwk.msn.net -    0 |   42 |   42 |   38 |   39 |   41 |   39 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    8 |    0 |    0 |    0 |    0 |    0 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR v0.92 GPL V2 by Appnor MSP - Fully Managed Hosting & Cloud Provider
